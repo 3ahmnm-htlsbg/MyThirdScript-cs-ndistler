@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Add : MonoBehaviour
+public class AddNumbers : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
         int a = 3;
@@ -24,5 +23,4 @@ public class Add : MonoBehaviour
         Debug.Log("add numbers a = " + a + ", b = " + b + "; a + b = " + (a + b));
 
     }
-
 }
