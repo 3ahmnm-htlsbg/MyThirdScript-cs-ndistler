@@ -1,8 +1,6 @@
-# MyThirdScript-cs-ndistler
+<h2>Title: MyThirdScript-cs-ndistler</h2>
 <h3>Project Description:</h3>
-<h5>The aim of this project is twofold:</h5>
-<li>First, it serves practicing the git/GitHub workflow, including writing a meaningful README.</li>
-<li>Second, this is the first time using a debug message with concatinations of strings and variables.</li>
+<p>Unity Project with a C# Script</p>
 
 <h3>Development platform:</h3>
 <p>Mac OS Mojave, Unity Version 2019.1.14f1, Visual Studio Code Version 1.36.1, Visual Studio Community 2017 for Mac.</p>
@@ -11,4 +9,6 @@
 <p>WebGL (RefRes: 1280x720 HD-720p)</p>
 
 <h3>Screenshots</h3>
-<img src="Repos/MyThirdScript-cs-ndistler/home-pic-playmode-mythirdscript-addnumbers-cs-ndistler.jpg">
+
+<h3>Lessons Learned</h3>
+<p>I learned how to modify a README.md and improved my workflow</p>
